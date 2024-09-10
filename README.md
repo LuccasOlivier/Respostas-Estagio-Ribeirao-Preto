@@ -1,6 +1,6 @@
-# Respostas - Estágio Ribeirão Preto
+# Respostas - Estágio em Desenvolvimento.
 
-Este repositório apresenta as soluções para os desafios de estágio solicitados para a vaga em Ribeirão Preto.
+Este repositório apresenta as soluções para os desafios de estágio solicitados para a vaga de Desenvolvimento de Software.
 
 ## Desafios
 
