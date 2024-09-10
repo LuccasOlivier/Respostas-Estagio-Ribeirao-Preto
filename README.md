@@ -1,4 +1,4 @@
-# Respostas - Estágio em Desenvolvimento.
+# Respostas - Estágio em Desenvolvimento de Software.
 
 Este repositório apresenta as soluções para os desafios de estágio solicitados para a vaga de Desenvolvimento de Software.
 
